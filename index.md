@@ -7,13 +7,13 @@ boxId: kweltidiq4bv1m9ow12prsuo9x2espsd
 
 
 -------------------------------------------
-To get a intermediate understanding of data visualization, getting audience familiarized with tableau platform and creating charts, 
-dashboards and story in tableau.
+To get a advanced understanding of data visualization, getting audience familiarized with tableau platform and creating relationships, 
+performing calulations and advanced charts in tableau.
 
 
 ## Workshop goals
-- To get familiarise with Tableau at an intermediate level.
-- To get accustomed with Tableau Desktop and create dashboards.
+- To get familiarise with Tableau at an advanced level.
+- To get accustomed with Tableau Desktop and creating relationships,performing calulations and advanced charts in tableau.
 
 <br>
 > ## Pre-requisites
