@@ -3,13 +3,14 @@ title: "Introduction"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "How to create Relationships, do calculations and Advanced charts in Tableau?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Creating Relationships"
+- "Performing Calculations"
+- "Creating Advanced Charts"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Creation of Relationships, performing Calculations and Advanced Charts explained in subsequent lessons."
 ---
 FIXME
 
 {% include links.md %}
-
