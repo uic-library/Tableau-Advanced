@@ -1,52 +1,53 @@
 ---
 title: "Setup"
-teaching: 0
-exercises: 10
-questions:
-- "How do I setup the software for this workshop?"
-- "What are the workshop materials for this workshop?"
-- "What data are we using for this workshop?"
-- "What is the pre-requisite knowledge I need and where do I get it?"
-- "What other information do I need to know before I begin?"
-objectives:
-- "Install necessary software for this workshop"
-- "Download data and other setup files for this workshop"
-- "Get context of data used in this workshop"
-- "Confirm I have the previous knowledge necessary to participate in this workshop"
 
-keypoints:
-- "Install X software"
-- "Install Y software"
-- "Download data/setup files x,y,z"
-- "Workshop data is from x, in y format and includes x,y,z types of data"
+
+objectives:
+- "Install and authenticate Tableau subscription"
+- "Install and setup Zoom if needed"
+- "Download data files for this workshop"
+
 ---
 
 ## Software setup
 
-FIXME add/edit  install instructions (automated, see comment)
+{% include install_instructions/tableau.html %}
 
-{% comment %} to add automated software install instructions, add instructions available in the install instructions 
-folder \_includes/install_instructions by using code seen below. Add or remove install instructions as needed. {% endcomment %}
-
-{% include install_instructions/virtual_lab.html %}
-{% include install_instructions/editor.html %}
 {% include install_instructions/videoconferencing.html %}
 
-## Setup files:
+## Data files:
 
-Please download the following files to particpate in the workshop:
+Please download the following file(s) to particpate in the workshop:
 
-FIXME data: 
-FIXME script: 
+Link to Data Set: [https://uofi.box.com/s/6q4p6u601z28b5iacmmydbuw3p6r0ezm](https://uofi.box.com/s/6q4p6u601z28b5iacmmydbuw3p6r0ezm)
 
-FIXME add links to setup files in `files` folder OR if there are many files, zip setup files, add to `files` folder
-and add link to zip file here
+Link to Tableau File: [https://uofi.box.com/s/v7gfpbwsxu1zng4f2t30albt56cfv9lk](https://uofi.box.com/s/v7gfpbwsxu1zng4f2t30albt56cfv9lk)
 
 ## About the Data Used in this Workshop:
 
-(if the workshop uses data)
+The dataset used is a sample dataset from Tabelau. It is a basic data collection of US supermarkets.
 
-FIXME add intro/description of data. Including file format and any disciplinary background needed to understand
-why the data is gathered and how it is used.
+Let us understand the attributes of this data set:
 
-{% include links.md %}
+- 'Row ID' - This is nothing but Serial No.
+- 'Order ID' - ID created when a product order is placed.
+- 'Order Date' - Date on which a customer places his/her order.
+- 'Ship Date' - Date on which the order is shipped.
+- 'Ship Mode' - Mode of shipment of each order.
+- 'Customer ID' - ID assigned to each customer who places an order.
+- 'Customer Name' - Name of Customer.
+- 'Segment' - Section from where the order is placed.
+- 'Country' - Country details of this data set. We are looking only for US store data.
+- 'City' - Cities of US are listed here.
+- 'State' - States of US are listed here.
+- 'Postal Code' - pin code
+- 'Region' - grouped into region wise
+- 'Product ID' - Product ID of each product
+- 'Category' - Category to which each product belongs to.
+- 'Sub-Category' - Sub-Category of each Category
+- 'Product Name' - Name of products.
+- 'Sales' - Selling Price of each product.
+- 'Quantity' - number of quantity available for a particular product.
+- 'Discount' - Discount available on each product.
+- 'Profit' - Profit gained on each product.
+
