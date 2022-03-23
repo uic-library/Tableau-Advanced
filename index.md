@@ -26,10 +26,10 @@ performing calulations and advanced charts in tableau.
 | Section    | Overview | Time Estimate |
 | ------- | ---------- |
 |[Setup](https://uic-library.github.io/workshop-template/00-setup/index.html)    | download and setup required software. Download data files|0:20 min|
-|[Introduction](https://uic-library.github.io/Tableau-Hands-On/01-introduction/index.html)|Understand Data Visualization concepts| | 
-|[Creating Charts](https://uic-library.github.io/Tableau-Hands-On/02-Creating-Charts/index.html)| Demo of Creating Charts in Tableau. | | 
-|[Creating Dashboard](https://uic-library.github.io/Tableau-Hands-On/03-Creating-Dashboard/index.html)| Demo of Creating Dashboard in Tableau. | | 
-|[Creating Story](https://uic-library.github.io/Tableau-Hands-On/04-Creating-Story/index.html)| Demo of Creating Story in Tableau. | | 
+|[Introduction](https://uic-library.github.io/Tableau-Advanced/01-introduction/index.html)|Understand Data Visualization concepts| | 
+|[Relationships in Tableau](https://uic-library.github.io/Tableau-Advanced/02-Relationships/index.html)| Demo of creating relationships in Tableau. | | 
+|[Calculations in Tableau](https://uic-library.github.io/Tableau-Advanced/03-Calculations/index.html)| Demo of performing calculations in Tableau in Tableau. | | 
+|[Building advanced charts in Tableau](https://uic-library.github.io/Tableau-Advanced/04-Advanced-Charts/index.html)| Demo of advacned charts in Tableau. | | 
 
 {% comment %}
 
