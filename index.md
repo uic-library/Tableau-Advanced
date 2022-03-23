@@ -29,7 +29,7 @@ performing calulations and advanced charts in tableau.
 |[Introduction](https://uic-library.github.io/Tableau-Advanced/01-introduction/index.html)|Understand Data Visualization concepts| | 
 |[Relationships in Tableau](https://uic-library.github.io/Tableau-Advanced/02-Relationships/index.html)| Demo of creating relationships in Tableau. | | 
 |[Calculations in Tableau](https://uic-library.github.io/Tableau-Advanced/03-Calculations/index.html)| Demo of performing calculations in Tableau in Tableau. | | 
-|[Building advanced charts in Tableau](https://uic-library.github.io/Tableau-Advanced/04-Advanced-Charts/index.html)| Demo of advacned charts in Tableau. | | 
+|[Building advanced charts in Tableau](https://uic-library.github.io/Tableau-Advanced/04-Advanced-Charts/index.html)| Demo of advanced charts in Tableau. | | 
 
 {% comment %}
 
